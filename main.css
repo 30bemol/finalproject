@@ -28,6 +28,7 @@ body{
 }
 .home h4{
 	font-size: 1.2vw;
+	padding-bottom: 1%;
 }
 .vertical{
 	width: 10vw;
@@ -35,6 +36,18 @@ body{
 	background-color: #e67e22;
 	position: fixed;
 	z-index: -1;
+}
+.sosialeMedier table{
+	width: 100%;
+	z-index: 2;
+	display: inline-block;
+    background-color: #eae8ff;
+    height:auto;
+    float:left;
+    border-radius: 20px;
+    padding:10px 40px;
+    font-family: Verdana;
+    margin-top: 80vh;
 }
 .container{
 	height: 100%;
