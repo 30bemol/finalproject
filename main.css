@@ -24,10 +24,10 @@ body{
 	z-index: 2;
 }
 .home h1{
-	font-size: 1.9vw;
+	font-size: 1.7vw;
 }
 .home h4{
-	font-size: 1.2vw;
+	font-size: 1vw;
 	padding-bottom: 1%;
 }
 .vertical{
@@ -37,17 +37,31 @@ body{
 	position: fixed;
 	z-index: -1;
 }
-.sosialeMedier table{
-	width: 100%;
-	z-index: 2;
-	display: inline-block;
-    background-color: #eae8ff;
-    height:auto;
-    float:left;
-    border-radius: 20px;
-    padding:10px 40px;
-    font-family: Verdana;
-    margin-top: 80vh;
+.sosialeMedier{
+	position: absolute;
+	width: 10vw;
+	height: 8vh;
+	right: 0;
+    bottom: 0;
+    left: 0;
+}
+#instagram{
+	width: 50%;
+	height: auto;
+}
+#facebook{
+	width: 50%;
+	height: auto;
+}
+.sosialeMedier img{
+	margin-left: 20%;
+	margin-top: 10%;
+}
+.sosialeMedier th{
+	border-bottom: 1px dashed black;
+}
+.sosialeMedier td{
+	border-bottom: 1px dashed black;
 }
 .container{
 	height: 100%;
