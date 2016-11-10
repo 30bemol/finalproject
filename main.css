@@ -99,12 +99,12 @@ a{
 	right: 0;
 }
 .containerBilde{
-	width: 80vw;
-	height: 40vh;
+	width: 85vw;
+	height: 30vh;
 	border-radius: 20px;
 	background-color: rgba(0, 0, 0, 0.2);
 	position: absolute;
 	right: 0;
 	margin-top: 10%;
-	margin-right: 5%;
+	margin-right: 2.5%;
 }
