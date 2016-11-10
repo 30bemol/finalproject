@@ -118,3 +118,12 @@ a{
 	margin-top: 25%;
 	margin-right: 2.5%;
 }
+
+.intro p {
+	font-size: 25px;
+	font-family: arial;
+	text-align: center;
+}
+.intro a {
+	text-decoration: underline;
+}
