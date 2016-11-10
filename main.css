@@ -108,3 +108,13 @@ a{
 	margin-top: 10%;
 	margin-right: 2.5%;
 }
+.intro{
+	width: 85vw;
+	height: 40vh;
+	border-radius: 20px;
+	background-color: rgba(0, 0, 0, 0.2);
+	position: absolute;
+	right: 0;
+	margin-top: 25%;
+	margin-right: 2.5%;
+}
