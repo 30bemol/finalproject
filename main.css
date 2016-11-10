@@ -37,6 +37,17 @@ body{
 	position: fixed;
 	z-index: -1;
 }
+.appDownload img{
+	width: 90%;
+	height: auto;
+}
+.appDownload table{
+	margin-top: 80%;
+}
+.appDownload tr td{
+	vertical-align: middle;
+	text-align: center;
+}
 .sosialeMedier{
 	position: absolute;
 	width: 100%;
